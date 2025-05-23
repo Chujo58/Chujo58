@@ -44,3 +44,11 @@ jobs:
                   plugin_habits_facts: no
                   plugin_habits_charts: yes
                   config_timezone: America/Montreal
+
+            - uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics.plugin.repositories.pinned.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  base: ""
+                  plugin_repositories: yes
+                  plugin_repositories_pinned: 2
