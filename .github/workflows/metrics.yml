@@ -51,4 +51,4 @@ jobs:
                   token: ${{ secrets.METRICS_TOKEN }}
                   base: ""
                   plugin_repositories: yes
-                  plugin_repositories_pinned: 2
+                  plugin_repositories_pinned: 3
