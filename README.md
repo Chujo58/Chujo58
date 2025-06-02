@@ -1,6 +1,4 @@
-![Metrics](/github-metrics.svg)
 ![](/metrics.plugin.languages.recent.svg)
 ![Charts](/metrics.plugin.habits.charts.svg)
 ![Facts](/metrics.plugin.habits.facts.svg)
-![Other](/metrics.plugin.repositories.pinned.svg)
 ![Calendar](/metrics.plugin.isocalendar.fullyear.svg)
