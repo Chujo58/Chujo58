@@ -118,7 +118,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Chujo58/oscfar</span>
-                                        <span>created 28 days ago</span>
+                                        <span>created 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OSCFAR (Order Statistic Constant False Alarm Rate) is a radar signal processing technique used for target detection. It adaptively estimates the noise or clutter power in the vicinity of a potential target and sets a detection threshold accordingly, maintaining a constant false alarm rate regardless of the background noise characteristics.</div>
